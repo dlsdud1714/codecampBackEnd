@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "name": "codecampbackend",
+  "version": "1.0.0",
+  "main": "myApp.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon myApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlsdud1714/codecampBackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlsdud1714/codecampBackEnd/issues"
+  },
+  "homepage": "https://github.com/dlsdud1714/codecampBackEnd#readme",
+  "description": ""
+}
